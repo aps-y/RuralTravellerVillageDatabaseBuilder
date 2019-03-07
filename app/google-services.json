@@ -1,0 +1,249 @@
+{
+  "project_info": {
+    "project_number": "307120911793",
+    "firebase_url": "https://ruraldatabase-34158.firebaseio.com",
+    "project_id": "ruraldatabase-34158",
+    "storage_bucket": "ruraldatabase-34158.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307120911793:android:85cd97406527a111",
+        "android_client_info": {
+          "package_name": "com.example.databserural"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307120911793-b146041sd5du4gllb2a5hgphg9s44cln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.databserural",
+            "certificate_hash": "c43da7dad7584c2ef032e8d69d435e77bb7f59b6"
+          }
+        },
+        {
+          "client_id": "307120911793-g439sqiedi8o3t6njek426irsmf630fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Q1XJuwmrvzEGroSBV15dV1HtR6MD5sQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307120911793-g439sqiedi8o3t6njek426irsmf630fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307120911793:android:e50112e3984f37ad",
+        "android_client_info": {
+          "package_name": "com.example.displaylist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307120911793-h7v6qi2dscegca8inbng24lenovne2r8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.displaylist",
+            "certificate_hash": "e6f2f17b9b13c165957a0ecc40afbbf6d863ca1b"
+          }
+        },
+        {
+          "client_id": "307120911793-g439sqiedi8o3t6njek426irsmf630fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Q1XJuwmrvzEGroSBV15dV1HtR6MD5sQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307120911793-g439sqiedi8o3t6njek426irsmf630fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307120911793:android:13c3c6a65bcbec53",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307120911793-g439sqiedi8o3t6njek426irsmf630fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Q1XJuwmrvzEGroSBV15dV1HtR6MD5sQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307120911793:android:f99ecd9a69917d8a",
+        "android_client_info": {
+          "package_name": "com.example.rate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307120911793-7mrs7q9ic5r1nalq5mch14kubi9sd25s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rate",
+            "certificate_hash": "e6f2f17b9b13c165957a0ecc40afbbf6d863ca1b"
+          }
+        },
+        {
+          "client_id": "307120911793-g439sqiedi8o3t6njek426irsmf630fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Q1XJuwmrvzEGroSBV15dV1HtR6MD5sQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307120911793-g439sqiedi8o3t6njek426irsmf630fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307120911793:android:a05193595bc27088",
+        "android_client_info": {
+          "package_name": "com.example.ruralt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307120911793-uoadvp9fd331ig18ilbcvgs6kfdbhk96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ruralt",
+            "certificate_hash": "e6f2f17b9b13c165957a0ecc40afbbf6d863ca1b"
+          }
+        },
+        {
+          "client_id": "307120911793-g439sqiedi8o3t6njek426irsmf630fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Q1XJuwmrvzEGroSBV15dV1HtR6MD5sQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307120911793-g439sqiedi8o3t6njek426irsmf630fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307120911793:android:3e2bd608fba9e4eb",
+        "android_client_info": {
+          "package_name": "com.example.ruraltravellerdatabasebuilder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307120911793-g439sqiedi8o3t6njek426irsmf630fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Q1XJuwmrvzEGroSBV15dV1HtR6MD5sQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
